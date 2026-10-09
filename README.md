@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Capstone-project-Dhanushmart
 
@@ -89,3 +90,6 @@ The physical JDBC connector is included at `lib/mysql-connector-j-9.2.0.jar`. Ma
 
 ## Public deployment
 See [`README_DEPLOY_RENDER.md`](README_DEPLOY_RENDER.md) for the Render Blueprint, Docker deployment steps, MySQL environment variables, and troubleshooting. The repository includes `Dockerfile` and `render.yaml` for deployment setup.
+=======
+# Dhanushmart
+>>>>>>> 7c44b6508bafea52c60617c72bf02471f3c99449
